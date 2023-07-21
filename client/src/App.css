@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #483d8b;
+  min-height: 100vh;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.search {
+  width: 100%;
+  min-height: 100vh;
+  padding: 30px;
+  margin: 0 auto;
+}
+.search h2 {
+  margin-bottom: 15px;
+}
+
+.App button{
+  color: black;
+  font-weight: bolder;
+  
+}

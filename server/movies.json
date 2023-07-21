@@ -1,0 +1,398 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/2I5eBh98Q4aPq8WdQrHdTC8ARhY.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 569094,
+            "original_language": "en",
+            "original_title": "Spider-Man: Across the Spider-Verse",
+            "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+            "popularity": 2616.839,
+            "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+            "release_date": "2023-05-31",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 1471
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zh614Bixv2ePaHK8gzcUpUmcvYv.jpg",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "id": 1102776,
+            "original_language": "fr",
+            "original_title": "AKA",
+            "overview": "A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss' young son.",
+            "popularity": 315.611,
+            "poster_path": "/3BSxAjiporlwQTWzaHZ9Yrl5C9D.jpg",
+            "release_date": "2023-04-28",
+            "title": "AKA",
+            "video": false,
+            "vote_average": 7.074,
+            "vote_count": 372
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xnAi4BRoO3ZQ3wwxGn6UNoxQzDq.jpg",
+            "genre_ids": [
+                80,
+                28
+            ],
+            "id": 823999,
+            "original_language": "it",
+            "original_title": "Diabolik - Ginko all'attacco!",
+            "overview": "Diabolik nearly gets caught in Inspector Ginko's latest trap, leaving his partner in crime Eva Kant behind in the escape. Furious, Eva offers Ginko her help in capturing the King of Terror, but the former has to face the return of an old flame of his.",
+            "popularity": 88.286,
+            "poster_path": "/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg",
+            "release_date": "2022-11-17",
+            "title": "Diabolik - Ginko Attacks",
+            "video": false,
+            "vote_average": 5.952,
+            "vote_count": 260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 76600,
+            "original_language": "en",
+            "original_title": "Avatar: The Way of Water",
+            "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "popularity": 1322.791,
+            "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            "release_date": "2022-12-14",
+            "title": "Avatar: The Way of Water",
+            "video": false,
+            "vote_average": 7.694,
+            "vote_count": 8629
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 640146,
+            "original_language": "en",
+            "original_title": "Ant-Man and the Wasp: Quantumania",
+            "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+            "popularity": 1144.621,
+            "poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+            "release_date": "2023-02-15",
+            "title": "Ant-Man and the Wasp: Quantumania",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dTsOvK19Brm1u2p06K7qlTyKHIi.jpg",
+            "genre_ids": [
+                28,
+                10752,
+                53
+            ],
+            "id": 1074034,
+            "original_language": "en",
+            "original_title": "Ambush",
+            "overview": "When a small outpost is ambushed, a US Army squad must take the battle below ground on a high-stakes mission in a new type of warfare the likes of which they have never seen.",
+            "popularity": 1379.579,
+            "poster_path": "/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg",
+            "release_date": "2023-02-24",
+            "title": "Ambush",
+            "video": false,
+            "vote_average": 5.857,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fIlmxFWplRXTACPoGnOuwIwzBuF.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 879444,
+            "original_language": "en",
+            "original_title": "Accident Man: Hitman's Holiday",
+            "overview": "The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
+            "popularity": 932.371,
+            "poster_path": "/zC5SJ18v9AhiHoFOIzZASqSxsPh.jpg",
+            "release_date": "2022-10-14",
+            "title": "Accident Man: Hitman's Holiday",
+            "video": false,
+            "vote_average": 6.58,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a5alro35e0XUa21Hb9Wlci67U73.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                878
+            ],
+            "id": 893712,
+            "original_language": "ja",
+            "original_title": "劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
+            "overview": "Over a month has passed since 10,000 users were trapped inside the \"Sword Art Online\" world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but conflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings…",
+            "popularity": 512.729,
+            "poster_path": "/2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg",
+            "release_date": "2022-10-22",
+            "title": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
+            "video": false,
+            "vote_average": 7.709,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtawaC6L7TFqA2LGxwicubixM4A.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1098239,
+            "original_language": "es",
+            "original_title": "Tangos, tequilas, y algunas mentiras",
+            "overview": "Lu has a perfect life. Or so she pretends to have. She meets the handsome, short-tempered Argentinian, Diego, who is on a visit to Mexico, and she is confident to get him head over heels in love with her. In order to win a wager with her friends, her life will take a turn when she does the impossible to win him over, including taking a trip to Argentina to look for him.",
+            "popularity": 35.085,
+            "poster_path": "/o9S6GW9MGyQZpRpPj65k0RIqYNL.jpg",
+            "release_date": "2023-03-09",
+            "title": "Tango, Tequila and Some Lies",
+            "video": false,
+            "vote_average": 7.276,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 461191,
+            "original_language": "en",
+            "original_title": "A",
+            "overview": "A young alcoholic ambient musician locks himself in his apartment on a dangerous seven day bender as he attempts to finish his upcoming album.",
+            "popularity": 2.659,
+            "poster_path": "/4uOKZzRB615cIxcVi31pcsdFtSS.jpg",
+            "release_date": "2017-09-13",
+            "title": "A",
+            "video": false,
+            "vote_average": 7.196,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/daeD5T4MxFk5MppZlaNZoaK6lE9.jpg",
+            "genre_ids": [
+                16,
+                14
+            ],
+            "id": 811948,
+            "original_language": "ja",
+            "original_title": "鬼滅の刃 柱合会議・蝶屋敷編",
+            "overview": "Tanjiro and his sister Nezuko have been apprehended by the Demon Slayer Hashira, a group of extremely skilled swordfighters. Tanjiro undergoes trial for violating the Demon Slayer code, specifically smuggling Nezuko, a Demon, onto Mt. Natagumo. A recap film of Kimetsu no Yaiba, covering episodes 22-26 with some new footage and special ending credits.",
+            "popularity": 229.691,
+            "poster_path": "/j1FpReEQXp8JsgNQZcfGvzeXNoI.jpg",
+            "release_date": "2021-04-15",
+            "title": "Demon Slayer: Kimetsu no Yaiba the Hashira Meeting Arc",
+            "video": true,
+            "vote_average": 7.016,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ahjfjrRiWVK8ErZBd5o4AVs6mp.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 1070777,
+            "original_language": "en",
+            "original_title": "One Day as a Lion",
+            "overview": "Jackie Powers will stop at nothing to prevent his son from following him into a life of crime. With his mob employer in pursuit, a chance encounter at a roadside diner charts a new path.",
+            "popularity": 497.406,
+            "poster_path": "/cxSKca4dNlk7O7PMiEYT203vlIw.jpg",
+            "release_date": "2023-04-04",
+            "title": "One Day as a Lion",
+            "video": false,
+            "vote_average": 5.75,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ltpW5exyTdqL5twV8zRMajf1VgU.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 24791,
+            "original_language": "ja",
+            "original_title": "A",
+            "overview": "Roughly chronological, from 3/96 to 11/96, with a coda in spring of 1997: inside compounds of Aum Shinrikyo, a Buddhist sect led by Shoko Asahara. (Members confessed to a murderous sarin attack in the Tokyo subway in 1995.) We see what they eat, where they sleep, and how they respond to media scrutiny, on-going trials, the shrinking of their fortunes, and the criticism of society. Central focus is placed on Hiroshi Araki, a young man who finds himself elevated to chief spokesman for Aum after its leaders are arrested. Araki faces extreme hostility from the Japanese public, who find it hard to believe that most followers of the cult had no idea of the attacks and even harder to understand why these followers remain devoted to the religion, if not the violence.",
+            "popularity": 2.381,
+            "poster_path": "/dBLzrfh5DtxJey1hOYZaN2drPe3.jpg",
+            "release_date": "1998-09-09",
+            "title": "A",
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5XlVKEoboLPgIqaEzCwoCiRn40.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 962682,
+            "original_language": "pt",
+            "original_title": "Um Ano Inesquecível - Verão",
+            "overview": "In order to study fashion in so-desired Paris, a young country girl who hates Carnival travels to Rio de Janeiro to try to get support from the most famous designer in Brazil. Set on sneaking into the sewing team of one of the biggest samba schools, she will discover that Carnival only lasts for a week, but a love story can change her entire life.",
+            "popularity": 121.509,
+            "poster_path": "/jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg",
+            "release_date": "2023-06-01",
+            "title": "An Unforgettable Year – Summer",
+            "video": false,
+            "vote_average": 6.042,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kZU3R3mBKGLn1oT6yoRPvUkUD4T.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10402
+            ],
+            "id": 884535,
+            "original_language": "pt",
+            "original_title": "Um Ano Inesquecível - Outono",
+            "overview": "An ambitious law student who hates music needs to make a perfect plan to get hired at the office she interns at – until she meets a charming singer who shakes her life. While she's living her first love, she needs to face her own past and decide what's more important: do what she loves or learn to love what she does.",
+            "popularity": 115.944,
+            "poster_path": "/m2nhmSE3QnXcA8aijq1iMFmkLkE.jpg",
+            "release_date": "2023-06-08",
+            "title": "An Unforgettable Year – Autumn",
+            "video": false,
+            "vote_average": 7.192,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2X5nnvkWvYRFmTspXY7lsJqDzog.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 988078,
+            "original_language": "es",
+            "original_title": "A través del mar",
+            "overview": "After a year of long-distance, Raquel and Ares reunite on a steamy beach trip. Faced with fresh flirtations and insecurities, will their love prevail?",
+            "popularity": 143.738,
+            "poster_path": "/tCNjaxAF9xCcXCRH2iiS54nHFWK.jpg",
+            "release_date": "2023-06-23",
+            "title": "Through My Window: Across the Sea",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qdFrqXYH6PtyAVlegub7bpoSgro.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "id": 573171,
+            "original_language": "es",
+            "original_title": "Huevitos Congelados",
+            "overview": "Follow the adventures of Toto and his family, who will have to travel to the South Pole to fulfill their promise to return a polar bear and some Spanish penguins to their home. In order to fulfill the promise, they will have to overcome some obstacles that will teach them how important teamwork is.",
+            "popularity": 157.532,
+            "poster_path": "/d7i9UXE7IfPx2uYtYKzgjs6zYzR.jpg",
+            "release_date": "2022-12-14",
+            "title": "A Frozen Rooster",
+            "video": false,
+            "vote_average": 7.785,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a2K8ak4pGCHR3O0hMualcokXXpa.jpg",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "id": 210763,
+            "original_language": "kn",
+            "original_title": "A",
+            "overview": "A film director fades away from the industry after the failed love with the heroine of his movie. After being rehabilitated, he learns that some people conspired his fall and decides to take revenge.",
+            "popularity": 1.055,
+            "poster_path": "/y3DH68oWOGMZ637tqYHfTGU4Bif.jpg",
+            "release_date": "1998-02-12",
+            "title": "A",
+            "video": false,
+            "vote_average": 6.119,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uXADu1mfgTwNkBjgtDkLQRt5N8a.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1094266,
+            "original_language": "es",
+            "original_title": "Amén: Francisco responde",
+            "overview": "Ten young people from all over the world meet in Rome with Pope Francis with the aim of talking and conveying to him the main concerns of their generation. What awaits them is an unprecedented meeting, a face-to-face conversation, and a unique event.",
+            "popularity": 16.832,
+            "poster_path": "/dqyzHNor7wEYhWRzVRrEuvqbCkU.jpg",
+            "release_date": "2023-04-05",
+            "title": "The Pope: Answers",
+            "video": false,
+            "vote_average": 7.676,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+            "genre_ids": [
+                35,
+                12,
+                10751
+            ],
+            "id": 643215,
+            "original_language": "fr",
+            "original_title": "Astérix & Obélix : L'Empire du Milieu",
+            "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+            "popularity": 132.026,
+            "poster_path": "/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+            "release_date": "2023-02-01",
+            "title": "Asterix & Obelix: The Middle Kingdom",
+            "video": false,
+            "vote_average": 4.872,
+            "vote_count": 456
+        }
+    ]
+    
+}
