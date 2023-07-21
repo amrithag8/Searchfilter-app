@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import { useState, useEffect } from "react";
 import { Search } from "./Components/Search";
 import axios from "axios";
