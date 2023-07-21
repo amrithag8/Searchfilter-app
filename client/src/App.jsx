@@ -8,7 +8,7 @@ export default function App() {
   const [searchItem, setSearchItem] = useState("");
 
   const fetchMovieDetails = async () => {
-    const response = await axios("http://localhost:3005/api/movies", {
+    const response = await axios("https://searchfilter-app-backend.vercel.app/api/movies", {
       params:{
         movieitem:searchItem
       }
@@ -19,7 +19,7 @@ export default function App() {
   };
 
   const deleteHandler=async()=>{
-    const response = await axios("http://localhost:3005/api/movies", {
+    const response = await axios("https://searchfilter-app-backend.vercel.app/api/movies", {
       method:"DELETE", 
       data:{
         movieitem:searchItem
@@ -32,7 +32,7 @@ export default function App() {
   }
 
   const submitHandler= async()=>{
-    const response = await axios("http://localhost:3005/api/movies", {
+    const response = await axios("https://searchfilter-app-backend.vercel.app/api/movies", {
       method:"POST", 
       data:{
         movieitem:searchItem
